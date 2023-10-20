@@ -4,7 +4,8 @@ output:
   pdf_document: default
 ---
 
-Aqui mi TEXTO sdf
+Aqui mi TEXTO
+Nueva linea
 
 
 # Este es mi primer repositorio
