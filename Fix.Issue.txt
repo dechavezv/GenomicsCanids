@@ -1,0 +1,16 @@
+ 1015  git add README.html
+ 1016  git status
+ 1017  git commit -m 'addingFile'
+ 1018  git push -u origin main
+ 1019  s
+ 1020  ls
+ 1021  nano README.
+ 1022  nano README.md
+ 1023  git add README.
+ 1024  git add README.md
+ 1025  git status
+ 1026  git commit -m 'addingInfo'
+ 1027  git push -u origin main
+ 1028  #git remote set-url origin git@github.com:dechavezv/GenomicsCanids.git
+ 1029  hisoty > Fix.Issue.txt
+ 1030  histry > Fix.Issue.txt
